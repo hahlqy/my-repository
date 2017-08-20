@@ -1,5 +1,5 @@
-#!/usr/bin/env python
-# encoding: utf-8
-
-n = 255
-print(hex(n))
+n = 0 
+while n>0 :
+    print (n)
+    n = n+1
+    
